@@ -1,0 +1,6 @@
+amount,note
+12.50,sale
+-2.25,refund
+,skip
+0.1,decimal
+0.2,decimal
